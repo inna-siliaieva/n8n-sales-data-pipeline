@@ -109,10 +109,12 @@ Convert to CSV
    |
    v
 Send Report
+```
 
 
 ## Repository Structure
 
+```text
 n8n-sales-data-pipeline/
 │
 ├── README.md
@@ -123,7 +125,7 @@ n8n-sales-data-pipeline/
     ├── data-processing-branches.png
     ├── report-generation.png
     └── csv-binary-output.png
-
+```
 
 ## Workflow File
 
